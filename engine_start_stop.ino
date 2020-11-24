@@ -2,7 +2,7 @@
  * Autor: Rafael Lopes Schneider
  * 24 de novembro de 2020
  * Serve para controle de relés de ignição de um veículo normal utilizando um botão para substituir a chave
- * Funcionando perfeitamente - lembra de utilizar o resistor pro GND na conexão do botão com o pino digital
+ * Funcionando perfeitamente - lembre de utilizar o resistor pro GND na conexão do botão com o pino digital
  */
 
 #define starter 52
